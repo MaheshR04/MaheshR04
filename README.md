@@ -18,7 +18,7 @@ FULL STACK WEB DEVELOPER<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=MaheshR04&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MaheshR04&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=MaheshR04&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MaheshR04&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
 
  
