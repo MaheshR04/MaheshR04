@@ -17,10 +17,14 @@ FULL STACK WEB DEVELOPER<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=MaheshR04&show_icons=true&theme=default)
+![](https://github-readme-stats.vercel.app/api?username=MaheshR04&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MaheshR04&theme=default)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MaheshR04&theme=github-dark-blue)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshR04&layout=compact&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshR04&layout=compact&theme=github_dark&langs_count=8&count_private=true)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=MaheshR04&theme=github-dark)
