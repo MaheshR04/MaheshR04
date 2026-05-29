@@ -25,4 +25,6 @@ FULL STACK WEB DEVELOPER<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshR04&layout=compact&theme=github_dark&langs_count=8&count_private=true)
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=MaheshR04&theme=github-dark)
+
  
