@@ -19,12 +19,23 @@ FULL STACK WEB DEVELOPER<br>
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=MaheshR04&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaheshR04&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MaheshR04&theme=github-dark-blue)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshR04&theme=github-dark-blue&hide_border=false"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshR04&layout=compact&theme=github_dark&langs_count=8&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshR04&layout=compact&theme=github_dark&langs_count=8"/>
 
+## 📈 Contribution Graph
+
+[![Mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaheshR04&theme=github-dark)](https://github.com/MaheshR04)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaheshR04&theme=darkhub&margin-w=10)](https://github.com/MaheshR04)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=MaheshR04&label=Profile%20Views&color=0e75b6&style=flat)
  
 
  
