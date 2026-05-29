@@ -18,11 +18,8 @@ FULL STACK WEB DEVELOPER<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=MaheshR04&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" height="195" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <td width="45%" align="right">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MaheshR04&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800" alt="Top Languages" height="195" />
- </td>
-</p>
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="https://streak-stats.demolab.com/?user=MaheshR04&theme=default&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MaheshR04&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
  
