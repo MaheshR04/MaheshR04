@@ -20,6 +20,5 @@ FULL STACK WEB DEVELOPER<br>
 # 📊 GitHub Stats:
 <div style="display: flex; gap: 10px; align-items: flex-start;">
   <img src="https://streak-stats.demolab.com/?user=MaheshR04&theme=default&hide_border=false" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MaheshR04&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
  
