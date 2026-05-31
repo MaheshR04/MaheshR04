@@ -20,11 +20,11 @@
  
  
 
-![](https://github-readme-stats.vercel.app/api?username=MaheshR04&theme=dark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=MaheshR04&theme=tokyonight&show_icons=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MaheshR04&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MaheshR04&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshR04&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshR04&layout=compact&theme=tokyonight)
  
 
  
