@@ -19,8 +19,6 @@
 # 📊 GitHub Stats:
  
  
+![](https://github-readme-stats.vercel.app/api?username=MaheshR04&theme=dark&show_icons=true&cache_seconds=1800)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=MaheshR04&theme=tokyo-night)
- 
-
- 
+![](https://github-readme-streak-stats.herokuapp.com/?user=MaheshR04&theme=dark)
