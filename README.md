@@ -17,5 +17,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-[![MaheshR04's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshR04&show_icons=true&theme=radial)](https://github.com/MaheshR04)
+[!](https://github-readme-stats.vercel.app/api?username=MaheshR04&show_icons=true&theme=radial)](https://github.com/MaheshR04)
 
