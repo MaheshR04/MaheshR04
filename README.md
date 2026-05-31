@@ -18,6 +18,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
  
- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshR04&theme=radical&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshR04&show_icons=true&theme=tokyonight&cache_seconds=86400)
