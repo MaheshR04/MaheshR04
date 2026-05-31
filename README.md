@@ -18,7 +18,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
  
-![](https://streak-stats.demolab.com/?user=MaheshR04&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com?user=MaheshR04&theme=dark&hide_border=false&cache_seconds=60)
  
 
  
