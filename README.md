@@ -20,12 +20,15 @@
  
  
 
-![](https://github-readme-stats.vercel.app/api?username=MaheshR04&theme=tokyonight&show_icons=true&count_private=true)
+```md
+<!-- GitHub Stats -->
+![](https://github-readme-stats.vercel.app/api?username=MaheshR04&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MaheshR04&theme=tokyonight)
+<!-- GitHub Streak -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=MaheshR04&theme=tokyonight&cache_seconds=1800)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshR04&layout=compact&theme=tokyonight)
- 
+<!-- Top Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshR04&layout=compact&theme=tokyonight&cache_seconds=1800)
+```
 
- 
  
